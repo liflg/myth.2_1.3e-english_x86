@@ -1,0 +1,51 @@
+
+			Myth 2: English version 1.3e
+		(http://www.lokigames.com/products/myth2/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Lokiversion of Myth 2
+	and offers the option to install the addon Chimera.
+	It contains the most recent patch and some workarounds to 
+	get this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Myth 2 disc
+
+RUNNING THE GAME
+============
+
+	Run "myth2_x11.dynamic.sh" to play the game, "fear.sh" to start
+        the tageditor and "loathing.sh" to start the mesheditor.
+
+NOTES
+====
+
+	- fopenr.so is from http://tobias.rautenkranz.ch/code/
+
+	- Use TCP/IP for multiplayer, Bungie.net has closed down
+
+	- For infos about the editors, have a look at the included
+	  README.tools and the tools_docs directory
+
+	- if you had the game previously installed on another location,
+	  delete ~/.loki/myth2
+
+	- some libraries are sponsored by Linux Game Publishing
+	  (http://linuxgamepublishing.com/)
+
+	- some libraries are taken from Debian
+	  (http://www.debian.org/)
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
